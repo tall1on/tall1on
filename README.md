@@ -1,6 +1,6 @@
 # tall1on
 
-Founder of Exatek and past Real Virtuality 4 Engine Pioneer
+RV4 Engine Legend
 
 ![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=tall1on&show_icons=true&locale=en&theme=shades-of-purple#gh-dark-mode-only)
 
