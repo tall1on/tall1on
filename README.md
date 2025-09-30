@@ -10,7 +10,7 @@
 
 - 👑 Legendary <a href="https://arma3.com/features/engine" target="_blank">RV4 Engine</a> Innovator
 
-- Also check out my [gitlab account](https://gitlab.com/T4llion)
+- ❗️ Also check out my [gitlab account](https://gitlab.com/T4llion)
 
 #### 🔧 Languages and Tools
 
