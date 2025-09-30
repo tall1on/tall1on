@@ -24,5 +24,5 @@
 
 #### Top Repositories
 
-| <a href="[https://github.com/anuraghazra/github-readme-stats](https://github.com/tall1on/ExaGameBooster)"><img align="center" src="https://github-readme-stats-two-ashen-12.vercel.app/api/pin/?username=tall1on&repo=ExaGameBooster&theme=github_dark&hide_border=true" /></a> |
+| <a href="https://github.com/tall1on/ExaGameBooster"><img align="center" src="https://github-readme-stats-two-ashen-12.vercel.app/api/pin/?username=tall1on&repo=ExaGameBooster&theme=github_dark&hide_border=true" /></a> |
 | ------------- |
