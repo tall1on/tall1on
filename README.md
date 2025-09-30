@@ -8,7 +8,7 @@
 
 - 🖥️ Debian, Ubuntu, Proxmox, Gentoo, WS2016/19/22/25
 
-- 👑 <a href="https://arma3.com/features/engine">RV4 Engine</a> Legend
+- 👑 Legendary <a href="https://arma3.com/features/engine" target="_blank">RV4 Engine</a> Innovator
 
 - Also check out my [gitlab account](https://gitlab.com/T4llion)
 
