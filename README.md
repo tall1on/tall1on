@@ -19,7 +19,7 @@
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" alt="cpp" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>  
 
-| <img align="center" src="https://github-readme-stats-two-ashen-12.vercel.app/api?username=tall1on&show_icons=true&theme=github_dark&hide_border=true" alt="tall1on's github stats" /> | <img align="center" src="https://github-readme-stats-two-ashen-12.vercel.app/api/top-langs/?username=tall1on&layout=compact&theme=github_dark&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats-two-ashen-12.vercel.app/api?username=tall1on&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="tall1on's github stats" /> | <img align="center" src="https://github-readme-stats-two-ashen-12.vercel.app/api/top-langs/?username=tall1on&layout=compact&theme=github_dark&hide_border=true" /> |
 | ------------- | ------------- |
 
 #### Top Repositories
