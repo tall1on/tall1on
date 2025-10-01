@@ -2,7 +2,7 @@
 
 **About me**
 
-- 🔬 Leading Edge Silicon Enthusiast
+- 🔬 Leading Edge Silicon Enthusiast ([link](https://nemez.net/die/CPU/Zen_5/STXH_IOD.jpg))
 
 - 📡 IaaS R&D
 
