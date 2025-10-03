@@ -30,7 +30,7 @@
 
 #### ⚡GitHub Stats
 
-| <img align="center" src="https://github-readme-stats-two-ashen-12.vercel.app/api?username=tall1on&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="tall1on's github stats" /> | <img align="center" src="https://github-readme-stats-two-ashen-12.vercel.app/api/top-langs/?username=tall1on&layout=compact&theme=github_dark&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats-two-ashen-12.vercel.app/api?username=tall1on&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="tall1on's github stats" /> | <img align="center" src="https://github-readme-stats-two-ashen-12.vercel.app/api/top-langs/?username=tall1on&layout=compact&theme=github_dark&hide_border=true&hide=lua" /> |
 | ------------- | ------------- |
 
 #### ⚡Top Repositories
