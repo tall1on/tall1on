@@ -6,7 +6,7 @@
 
 - 📡 IaaS R&D
 
-- 🖥️ Debian, Ubuntu, Proxmox, Gentoo, WS2016/19/22/25
+- 🖥️ Debian 9/10/11/12/13, Ubuntu, Proxmox 8/9, Gentoo, WS2016/19/22/25
 
 - 👑 Legendary <a href="https://arma3.com/features/engine" target="_blank">RV4 Engine</a> Innovator
 
